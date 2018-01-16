@@ -1,0 +1,246 @@
+a keyword around
+b keyword bit
+c keyword covented
+d keyword drawn
+e keyword let
+f keyword fed
+g keyword gathered
+h keyword held
+i keyword inserted
+j keyword juncturt
+k keyword snicked
+l keyword lined
+m keyword manipulated
+n keyword ascendant
+o keyword around
+p keyword perked
+q keyword qued
+r keyword grasped
+s keyword supplied
+t keyword scripted
+u keyword downward
+v keyword divident
+w keyword wide-view
+x keyword extra
+y keyword yoked
+z keyword zelquite
+A keyword abed
+B keyword bide
+C keyword catch
+D keyword defended
+E keyword emplaced
+F keyword fastened
+G keyword gated
+H keyword housed
+I keyword bind
+J keyword adjusted
+K keyword locked
+L keyword loaded
+M keyword make
+N keyword manner
+O keyword other
+P keyword person
+Q keyword quirk
+R keyword retract
+S keyword snake
+T keyword attached
+U keyword cupped
+V keyword valley
+W keyword widespread
+X keyword examine
+Y keyword you
+Z keyword business
+Axiomatic Relationships:
+Existence is related to existence by existence.
+Existence is related to appearance by feature.
+Existence is related to sound by noise.
+Existence is related to position by location.
+Existence is related to contact by touch.
+Existence is related to possession by ownership.
+Existence is related to change by difference.
+Existence is related to action by momentum.
+Existence is related to movement by motion.
+Existence is related to perception by sense.
+Existence is related to feeling by emotion.
+Existence is related to cognition by thought.
+Appearance is related to appearance by appearance.
+Appearance is related to sound by identifying sound.
+Appearance is related to position by surroundings.
+Appearance is related to contact by attractiveness.
+Appearance is related to possession by desirability.
+Appearance is related to change by alteration.
+Appearance is related to action by satisfaction.
+Appearance is related to movement by desire.
+Appearance is related to perception by particular sense.
+Appearance is related to feeling by assessment.
+Appearance is related to cognition by judgment.
+Sound is related to sound by sound.
+Sound is related to position by echo.
+Sound is related to contact by vibration.
+Sound is related to possession by token response.
+Sound is related to change by specific response.
+Sound is related to action by request.
+Sound is related to movement by movement request.
+Sound is related to perception by hearing.
+Sound is related to feeling by evocation.
+Sound is related to cognition by verbal thought.
+Position is related to position by position. 
+Position is related to contact by proximital sense.
+Position is related to possession by keeping.
+Position is related to change by locational change.
+Position is related to action by possible interaction.
+Position is related to movement by location.
+Position is related to perception by proximital sense.
+Position is related to feeling by sense of interactive possibility.
+Position is related to cognition by design of possible interaction.
+Contact is related to contact by contact.
+Contact is related to possession by desire.
+Contact is related to change by loss or gain of contact.
+Contact is related to action by stimulation to act.
+Contact is related to movement by stimulation with respect to movement.
+Contact is related to perception by sense of contact.
+Contact is related to feeling by emotional response to contact.
+Contact is related to cognition by conceptual response to contact.
+Possession is related to possession by possession.
+Possession is related to change by divestment, loss or re-security.
+Possession is related to action by care or use.
+Possession is related to movement by transport.
+Possession is related to perception by ownership observance.
+Possession is related to feeling by ownership pride.
+Possession is related to cognition by value realization.
+Action is related to action by action.
+Action is related to movement by activity.
+Action is related to perception by sense of action.
+Action is related to feeling by emotional response.
+Action is related to cognition by mental response.
+Movement is related to movement by movement.
+Movement is related to perception by sense of movement.
+Movement is related to feeling by spatial harmony sense.
+Movement is related to cognition by spatial position sense.
+Perception is related to perception by perception.
+Perception is related to feeling by emotional response.
+Perception is related to cognition by intellectual response.
+Feeling is related to feeling by feeling.
+Feeling is related to cognition by emotional perception.
+Cognition is related to cognition by cognition.                 
+Core Response Elements:
+I, me, you, them, they, is, was, will be, a, had a, will 
+have a, isn't, is not, are, aren't, are not, be, being, do,
+does, doesn't, can, can't, can not, could, couldn't, 
+could not, should, shouldn't, should not, has, had, 
+will have, hasn't, has not, doesn't have, of, to, for, from, 
+about, who, what, where, when, why, how, so, if, then,
+because, this, that, other, some, each, both, all, and, 
+or
+Property Level Spectra:
+existance:
+totally nonexsistant, doesn't exist, is not, isn't, exists, in existance, assuredly exists
+existance, reality:
+unreal, fictional, unrealistic, quasi-fictional, sort of exists, true to form, indellably real
+appearance, dimension, length:
+infantessimal, thin, short, medium length, long, very long, as long as possible
+appearance, dimention, width:
+infantessamal thing, somewhat wide, wide, very wide, extremely wide, as wide as possible
+appearance, dimension, height:
+extremely short, very sort, extremely low, very low, short, low, medium height, tall, high, very tall, very high, extremely tall, extremely high, as high as possible
+appearance, demension, radius:
+infantessimal, short, small, medium length, long, extremely long, as longa as possible
+appearance, dimension, diameter:
+infntessimal, short, small, medium length, long, extremely long, as long as possible
+appearance, dimension, circumference:                             
+tiny, short, medium, long, extremely long, as long as possible
+appearance, shape:
+square, oblate, circular, conical, tapered, goes to a point, boxy, box, rounded, round, spherical
+sound, loudness:
+silent, imperceptably quiet, impercievably soft, hushed, soft, quiet, audible, not very loud, somewhat loud, noisy, loud, very loud, unbearably loud, cacaphonous, ear-splitting
+sound, tamber:
+tinny, whine, chirp, click, snick, crash, clatter, thump, booming, thunderous, explosive
+position, relative, personal:
+up against, leaning against, in contact with, right next to, next to, near, around
+position, relative, streetwise:
+right next to, adjecent to, across from, around the corner from, close to, right near, on the same street, nearby, near, right near, right around, somewhat close to, somewhat nearby, in the same area, in the same town, in the same city, a good distance from, distant, pretty far away, pretty far from, far away from, far from, remote, extremely distant, extremely far apart
+position, fixed:
+nm apart, nm away, nm from, nanometer apart, nanometer away, nanomater from, nanometers apart, nanometers away, nanometers from, hairsbredth apart, hairsbredth away, hairsbredth from, millimeter apart, millimeter away, millimeter from, millimeters apart, millimeters away, millimeters from, 1/16th of an inch apart, 1/16th of an inch away, 1/16th of an inch from, 1/2 of an inch apart, 1/2 of an inch away, 1/2 of an inch from, centemeter apart, centemeter away, centemeter from, inch apart, inch away, inch from, centemeters apart, centemeters away, centemeters from, inches apart, inches away, inches from, foot apart, foot away, foot from, feet apart, feet away, feet from, meter apart, meter away, meter from, meters apart, meters away, meters from, kilometer apart, kilometer away, kilometer from, mile apart, mile away, mile from, kilometers apart, kilometers away, kilometers from, miles apart, miles away, miles from, lightyear apart, lightyear away, lightyear from, lightyears apart, lightyears apart, lightyears from
+contact, direct:
+graze, brush, touch, press, grasp, hold, clutch
+contact, indirect:
+see, speak to think of, imagine, be intelepathic contact
+possession, simple:
+not have, not hold, have use rights to, have, holding
+possession, ownership:
+give away, sell, not own, hold in trust, rent, lease, purchase, buy, possess, amass
+change, possibility:
+insurmountable, impossible, unlikley, could, will, definitely will
+change, probability:
+never going to, will not, won't, highly improbable, improbable, probably won't quite unlikley, unlikley, possibly won't, could, possibly will, should,
+probably will, likley, quite likley, probable, highly probable, definitely will, will always will                
+change, increase:
+increase incrementally, grow, add to, increase, compile, amass
+change, decrease:
+decrease incremantally, decrease, diburse, disperse, reduce, dissapate, give out, alleviate
+change, combination:
+taint, add, splice, mix, combine
+change, refine:                      
+polish, clean, hone, mill, filter, edit, refine, denou, extract, evolve
+change, corsen:  
+coursen, fray, devolve, decompose, rot                           
+change, break:
+part, crack, seperate, break
+change, mend:
+heal, mend
+change, adjust:
+acclimate, adjust, readjust, cohere, radically rearrange
+action, compose:
+line up, set up, arrange, compose
+action, engage:
+introduce, propose, covent, insert, enjuncticate, snick, anchor, belay, play, engage, perk, manipulate, dominate, force, compel
+action, attain, win, be victorious
+action, fail:
+retract, lose, lose in contest, be stripped of, fail
+action, give:
+donate, bequeath, give, feed, award
+action, take:
+recieve, draw, remove, take, get, gather, obtain, capture, steal
+action, make:
+assemble, manufacture, make, create
+action, unmake:
+disassemble, unmake, destroy
+movement, autonomic:
+quantum flux, electron orbit, photon exchange, cytoplasmic flux, cellular respiration, celluar metabolism, tremulousness, circulation, breating, urination, defication, digestion, perspiration, salivation, blinking
+movement, advance:
+leaning toward, reaching for, propigation, advancement, movement toward, to ascend, walking toward, running toward, driving toward, flying toward
+movement, withdrawl:
+leaning away from, retraction, withdrawl, propelment, departure, quit, walking away from, running away from, driving away from, retreat, flying away from
+perception, see:
+peek at, spy, see, view, observe
+perception, hearing:
+hear, give ear to, listen to
+perception, touch:
+graze, caress, touch, stroke, handle, grab, clutch
+perception, frequency:  
+never, nearly never, infrequently, occasionally, usually, often, frequently, always
+perception, temperature sense cold:
+feeling of coolness, feelling of cold, feeling of extreme cold
+perception, temperature sense heat:
+feeling of tepidness, feeling of warmness,  feeling of heat, feeling of searing heat}
+perception, taste:
+bland, sour, sweet, spicy
+perception, time:                       
+time passing slowly, time passing normally, time passing quickly
+sense, asthetics:                                                                                                                                          sense of uglyness, sense of continuity, sense of beauty
+feeling sadness:
+drearyness, mealancholy, sadness, depression, deep depression
+feeling, emotional neutrality:  
+day to day feeling, just going along
+feeling, happiness:
+contentment, happiness, joy, exuberance, overjoyed
+feeling, pain:
+ache, pain, excrutiation
+feeling, pleasure pain neutrality:
+lack of sensation, numbnes
+feeling, pleasure:
+a plesant sensation, intoxicant warmpth, euphoria, extacy
+cognition, confusion:
+befuddlement, confusion, disorientation
+cognition, realization:
+imagine, realize, discover, conclude
